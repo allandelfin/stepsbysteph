@@ -25,6 +25,18 @@ Text Domain: THEMEUM
 
 }
 
+.social-share ul li a.facebook,
+.social-share ul li a.pinterest{
+	background-color : #CACACA !important;
+}
+
+.social-share ul li a.facebook:hover{
+	background-color : #A2B4EE !important;
+}
+
+.social-share ul li a.pinterest:hover{
+	background-color : #F5B9AC !important;
+}
 
 
 
